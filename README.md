@@ -2,7 +2,7 @@
 
 rtyry
 yutf
-tyty
+ty
 
 
 
