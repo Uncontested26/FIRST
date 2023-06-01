@@ -3,7 +3,7 @@ af
 h
 аы
 g
-sdg
+sd
 sdfg
 фва
 a
