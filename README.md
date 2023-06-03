@@ -4,7 +4,7 @@ af
 аы
 g
 sd
-sd
+s
 
 
 
