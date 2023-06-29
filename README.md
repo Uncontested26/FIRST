@@ -4,7 +4,7 @@ q
 a
 e
 d
-r
+
 d
 s
 
