@@ -5,7 +5,7 @@ ert
 er
 ewr
 eqet
-qwrt
+qwr
 
 qw
 о
