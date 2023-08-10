@@ -7,7 +7,7 @@ ewr
 eqet
 qwrt
 
-qwrt
+qw
 о
 п
 
