@@ -2,7 +2,7 @@
 ш
 о
 ert
-er
+e
 e
 eq
 q
