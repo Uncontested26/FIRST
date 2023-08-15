@@ -6,7 +6,7 @@ g
 wsert
 tws
 set
-
+wsef
 sef
 
 п
