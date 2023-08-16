@@ -3,7 +3,7 @@
 о
 wef
 g
-wser
+wse
 tws
 se
 wse
