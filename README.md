@@ -7,7 +7,7 @@ wsert
 tws
 se
 wsef
-sef
+se
 sf
 п
 
