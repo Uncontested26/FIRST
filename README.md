@@ -6,7 +6,7 @@ g
 ws
 tw
 se
-wse
+ws
 se
 sf
 п
