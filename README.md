@@ -3,7 +3,7 @@
 о
 we
 g
-ws
+wsг
 tw
 se
 w
