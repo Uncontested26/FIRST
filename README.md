@@ -2,7 +2,7 @@
 ш
 о
 we
-g
+gг
 wsг
 tw
 se
