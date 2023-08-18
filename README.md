@@ -1,7 +1,7 @@
 11# FIRST
 шв
 о
-we
+w
 gг
 ws
 t
