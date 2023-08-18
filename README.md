@@ -4,7 +4,7 @@
 we
 gг
 ws
-tw
+t
 s
 se
 sf
