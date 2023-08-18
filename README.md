@@ -5,7 +5,7 @@ we
 gг
 ws
 tw
-se
+s
 se
 sf
 п
