@@ -7,6 +7,6 @@ w
 t
 s
 se
-sf
+s
 п
 
