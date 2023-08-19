@@ -6,7 +6,7 @@ g
 w
 t
 s
-se
+s
 s
 п
 
