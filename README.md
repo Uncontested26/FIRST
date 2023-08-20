@@ -4,7 +4,7 @@
 w
 g
 w
-t
+
 s
 s
 s
