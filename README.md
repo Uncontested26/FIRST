@@ -2,7 +2,7 @@
 ш
 о
 f
-qawe
+qa
 w
 asd
 ad
