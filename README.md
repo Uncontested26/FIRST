@@ -5,7 +5,7 @@ f
 q
 w
 a
-ad
+a
 a
 s
 п
