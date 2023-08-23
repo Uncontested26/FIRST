@@ -6,7 +6,7 @@ qa
 w
 asd
 ad
-as
+a
 s
 п
 
