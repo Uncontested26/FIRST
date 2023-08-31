@@ -6,7 +6,7 @@
 w
 ыва
 a
-ываыв
+ываы
 пwerw
 werwer
 rwr
