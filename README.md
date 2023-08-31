@@ -7,7 +7,7 @@ w
 ыва
 a
 ываы
-пwerw
+пwer
 werwer
 rwr
 wer
