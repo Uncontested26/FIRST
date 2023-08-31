@@ -8,6 +8,6 @@ w
 a
 ыва
 пwer
-werw
+wer
 rwr
 wer
