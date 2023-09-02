@@ -9,5 +9,5 @@ a
 ы
 пw
 w
-rwr
+rw
 wer
