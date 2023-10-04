@@ -4,7 +4,7 @@ ghk
 wege
 gws
 g
-wg
+w
 н
 hg
 g
