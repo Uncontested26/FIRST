@@ -3,7 +3,7 @@
 ghk
 wege
 gws
-gj
+g
 wge
 нг
 hgjk
