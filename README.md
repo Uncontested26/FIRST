@@ -1,7 +1,7 @@
 11# FIRST
 кв
 ghk
-wegew
+wege
 gws
 gj
 wge
