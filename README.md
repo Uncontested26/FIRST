@@ -5,7 +5,7 @@ wege
 gws
 g
 wge
-нг
+н
 hgjk
 gh
 hgk
