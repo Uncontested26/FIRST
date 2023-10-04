@@ -6,7 +6,7 @@ gws
 g
 wge
 н
-hgjk
+hgj
 g
 hgk
 ghk
