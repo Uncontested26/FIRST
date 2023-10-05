@@ -1,7 +1,7 @@
 11# FIRST
 кв
 gh
-weg
+we
 gw
 g
 w
