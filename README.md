@@ -1,6 +1,6 @@
 11# FIRST
 кв
-ghk
+gh
 weg
 gw
 g
