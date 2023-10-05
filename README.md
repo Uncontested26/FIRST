@@ -2,7 +2,7 @@
 кв
 gh
 we
-gw
+g
 g
 w
 н
