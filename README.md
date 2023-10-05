@@ -1,7 +1,7 @@
 11# FIRST
 кв
 ghk
-wege
+weg
 gw
 g
 w
