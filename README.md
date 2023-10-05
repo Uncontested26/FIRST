@@ -9,5 +9,5 @@ w
 hg
 g
 hgk
-ghk
+gh
 wуgchk
