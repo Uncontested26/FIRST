@@ -2,7 +2,7 @@
 кв
 ghk
 wege
-gws
+gw
 g
 w
 н
