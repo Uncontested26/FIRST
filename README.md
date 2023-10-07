@@ -10,4 +10,4 @@ hg
 
 h
 gh
-wуgchk
+wуgch
