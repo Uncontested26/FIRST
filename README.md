@@ -7,7 +7,7 @@ g
 w
 н
 hg
-g
+
 hgk
 gh
 wуgchk
