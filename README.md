@@ -8,6 +8,6 @@ w
 н
 hg
 
-hg
+h
 gh
 wуgchk
