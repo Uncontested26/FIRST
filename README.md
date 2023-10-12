@@ -6,7 +6,7 @@ g
 g
 w
 н
-hg
+h
 
 h
 g
