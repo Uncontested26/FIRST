@@ -9,5 +9,5 @@ w
 hg
 
 h
-gh
+g
 wуgch
