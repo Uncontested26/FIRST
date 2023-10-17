@@ -4,7 +4,7 @@ gh
 we
 g
 
-w
+
 
 h
 
